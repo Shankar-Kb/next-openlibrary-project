@@ -1,5 +1,5 @@
 import React, { useState, useRef, useCallback } from 'react'
-import SearchHook from './SearchHook'
+import SearchHook from './SearchHook.js'
 import { Input, Spin, Row, Col } from 'antd';
 import { LoadingOutlined } from '@ant-design/icons';
 
